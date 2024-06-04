@@ -1,0 +1,1 @@
+# discord-text-analysis-bot
